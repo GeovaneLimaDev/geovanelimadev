@@ -110,7 +110,7 @@ aling ="left"
 alt="Git Status"
 height="200px"
 style="pedding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=geovanelimadev&show_icons=true&theme=tokyonight&custom_title=Estatísticas do Github de Geovane Lima" />
+src="https://github-readme-stats.vercel.app/api?username=geovanelimadev&show_icons=true&theme=tokyonight&custom_title=Estatísticas" />
 <img
 aling ="left"
 alt="Git Status"
