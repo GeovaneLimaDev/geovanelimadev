@@ -108,9 +108,9 @@ ___
 <img
 aling ="left"
 alt="Git Status"
-height="200px"
+height="210px"
 style="pedding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=geovanelimadev&show_icons=true&theme=tokyonight&custom_title=Estatísticas" />
+src="https://github-readme-stats.vercel.app/api?username=geovanelimadev&show_icons=true&theme=tokyonight" />
 <img
 aling ="left"
 alt="Git Status"
